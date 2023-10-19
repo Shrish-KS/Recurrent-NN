@@ -5,5 +5,14 @@ The Types of RNNs seen here are:
   <ul>LSTM</ul>
   <ul>GRU</ul>
 
-LSTM - Long short term memory
-GRU - Gated recurrent units
+LSTM - Long short term memory<br />
+GRU - Gated recurrent units<br >
+
+<h2>Simple RNN</h2>
+<img src="./simplernn.png">
+
+<h2>GRU</h2>
+<img src="./gru.png">
+
+<h2>LSTM</h2>
+<img src="./lstm.png">
